@@ -18,7 +18,7 @@ I started learning programming as a Civil Engineering student and enjoy finding 
 🌱 I'm looking for help with writing cleaner and more efficient code, improving my problem-solving skills, and learning software development best practices
 
 ## 🛠 Skills
-**Programming Languages**: C++, Java (Beginner)
+**Programming Languages**: C++, Java
 
 **Engineering & Design**: AutoCAD, Tinkercad (Basic), Wordpress
 
